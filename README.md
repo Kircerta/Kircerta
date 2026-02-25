@@ -1,0 +1,16 @@
+# 💫 About Me:
+<Placeholder><br><br><As I'm too lazy>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alexxon) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@_alexxon) 
+
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kircerta&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kircerta&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kircerta&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Thank u GPRM <3 - Kircerta(Zixiang Zhang) -->
